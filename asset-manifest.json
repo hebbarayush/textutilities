@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hebbarayush/textutilities/static/css/main.5eda9be8.css",
+    "main.js": "/hebbarayush/textutilities/static/js/main.e2d8af9c.js",
+    "static/js/787.fb9a5fa6.chunk.js": "/hebbarayush/textutilities/static/js/787.fb9a5fa6.chunk.js",
+    "index.html": "/hebbarayush/textutilities/index.html",
+    "main.5eda9be8.css.map": "/hebbarayush/textutilities/static/css/main.5eda9be8.css.map",
+    "main.e2d8af9c.js.map": "/hebbarayush/textutilities/static/js/main.e2d8af9c.js.map",
+    "787.fb9a5fa6.chunk.js.map": "/hebbarayush/textutilities/static/js/787.fb9a5fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eda9be8.css",
+    "static/js/main.e2d8af9c.js"
+  ]
+}
